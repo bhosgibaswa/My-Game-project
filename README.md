@@ -1,3 +1,3 @@
-# My-JS-projects
+# My-game-project
 i developed this game application using javascript
 
